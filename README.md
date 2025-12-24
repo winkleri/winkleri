@@ -35,12 +35,6 @@
 - **Markdown** ✍️
 - **XWiki** (Documentation) 📖 
 
----
-
-### Operating Systems  
-- **Linux** 🐧  
-- **Windows** 🪟  
-- **macOS** 🍏  
 
 ## 🚀 Current Projects  
 1. **Loans Website for DESY** | APEX  
