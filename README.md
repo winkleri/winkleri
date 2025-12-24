@@ -1,42 +1,60 @@
-# Hello, world! 👋
-I am Ilja Winkler. An undergraduate computer science student who is probably currently tinkering with something. 
+# Hello, world! 👋  
 
-Feel free to check out this personal portfolio of mine containing partly private as well as university related projects in several languages 
+🌱 I’m **Ilja Winkler**, an undergraduate computer science student at HAW Hamburg and working student at DESY — usually tinkering with something new.  
 
-## Tech stack  
-These subparagraph is hierarchically ordered where a higher position inside of the paragraph implies more experience. 
+📫 **Reach me at:**  
+- `iljawinkler@googlemail.com`  
+- `ilja.winkler@haw-hamburg.de`  
+- `ilja.winkler@desy.de`  
 
-### Languages
-- Java ☕
-- PL/SQL 📊
-- Bash 🖥️
-- Python 🐍
-- C 🇨
-- Perl 🦪
-- Markup languages (XML/HTML)
-### Tools 
-- Git
-- UNIX Shell 🐚
-- Markdown
-- XWiki (for Documentation)
-### Operating Systems
-- Linux 🐧
-- Windows 🪟
-- MacOS 🍏
-### Low code environments
-- Oracle APEX[^1]
-<!--
-**winkleri/winkleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 **Fun fact:** I’m left-handed, speak five languages (more or less), and practice Muay Thai!  
 
-Here are some ideas to get you started:
+💬 This portfolio contains a mix of personal and university-related projects in several languages.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[^1]: Please don't _**ever**_ force me to use this in another job ever again. I despise Oracle deeply for this piece of "software" that they vomited out.
+⚡ Below is a snapshot of my technical experience.  
+
+## 🛠 Tech Stack  
+
+(Ordered by experience — higher = more proficient)
+
+### Languages  
+- **Java** ☕  
+- **PL/SQL** 📊  
+- **Bash** 🖥️  
+- **Python** 🐍  
+- **C** 🇨  
+- **Perl** 🦪  
+- **Markup (XML/HTML)** 📝
+
+---
+
+### Tools  
+- **Oracle APEX** 🏛️ [^1]  
+- **Git** 🌱 
+- **UNIX Shell** 🐚  
+- **Markdown** ✍️
+- **XWiki** (Documentation) 📖 
+
+---
+
+### Operating Systems  
+- **Linux** 🐧  
+- **Windows** 🪟  
+- **macOS** 🍏  
+
+## 🚀 Current Projects  
+1. **Loans Website for DESY** | APEX  
+2. **State Machine Library** | Java  
+3. **Graph Engine** (GraphStream) | Java  
+4. **The Ultimate Rice** | Arch Linux (btw)  
+5. **GradeApp** | Java/JavaFX ✔️  
+
+
+
+## 🌱 Planned Projects  
+1. DIY Server  
+2. Personal Homepage  
+
+
+
+[^1]: Please don’t ever force me to use this again. I despise Oracle deeply for this piece of “software” they vomited out.  
