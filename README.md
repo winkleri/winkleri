@@ -26,21 +26,19 @@
 - **Perl** 🦪  
 - **Markup (XML/HTML)** 📝
 
----
-
 ### Tools  
 - **Oracle APEX** 🏛️ [^1]  
 - **Git** 🌱 
 - **UNIX Shell** 🐚  
 - **Markdown** ✍️
-- **XWiki** (Documentation) 📖 
+- **XWiki (Documentation)** 📖 
 
 
 ## 🚀 Current Projects  
 1. **Loans Website for DESY** | APEX  
 2. **State Machine Library** | Java  
 3. **Graph Engine** (GraphStream) | Java  
-4. **The Ultimate Rice** | Arch Linux (btw)  
+4. **Ricing** | Arch Linux  
 5. **GradeApp** | Java/JavaFX ✔️  
 
 
@@ -51,4 +49,4 @@
 
 
 
-[^1]: Please don’t ever force me to use this again. I despise Oracle deeply for this piece of “software” they vomited out.  
+[^1]: One of the worst pieces of software I ever had the misfortune of having to work with.  
